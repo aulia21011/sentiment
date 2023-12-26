@@ -67,3 +67,7 @@ Bahasa Indonesia: polusi;kualitas udara;emsisi karbon;emisi CO2;karhutla (kebaka
 ## Paper Resource
 BERT: [https://arxiv.org/abs/1810.04805](url)
 Transformer: [https://arxiv.org/abs/1706.03762](url)
+
+## Results
+[Public Response to Air Pollution on Indonesian Social Media.pdf](https://github.com/liasan-r/sentiment-pollution/files/13769893/Public.Response.to.Air.Pollution.on.Indonesian.Social.Media.pdf)
+
